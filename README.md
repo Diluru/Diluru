@@ -4,4 +4,4 @@
 
 - Tenho interesse em desenvolvimentos de jogos e algumas coisas básicas de design  e ciência dados.
 
-- Atualmente com foco em me especializar mais em Python.
+- Atualmente estou focando em criar uns proejos pequenos com python e também em aprender C#.
