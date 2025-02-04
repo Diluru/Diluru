@@ -4,4 +4,4 @@
 
 - Estou tentando aprender Javascript e desenvolvimento Web.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Diluru/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diluru)](https://github.com/Diluru/github-readme-stats)
